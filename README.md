@@ -28,6 +28,7 @@ Among Ass - Русский мод для Among Us-а (гоблинский пе�
 #### Видео обзоры
 Windows трейлер:
 [![Windows трейлер](https://i.ytimg.com/vi/cH8PcMl9gDA/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLC0481gPci2_cQWqBxeBuTRTDJLZA)](https://youtu.be/cH8PcMl9gDA)
+pososseee
 
 ##### В чем смысл мода?
 - Смысла нету, это как Kayf-Life (мод для Half-Life 2), тупо но смешно
